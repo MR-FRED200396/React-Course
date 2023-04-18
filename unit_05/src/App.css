@@ -1,0 +1,16 @@
+#root {
+  margin: 40px auto;
+  max-width: 1000px;
+  background: #c0c0c0;
+  padding: 10px;
+}
+
+.test, .task-2, .block-7 {
+  width: 100px;
+  height: 100px;
+  background: orange;
+}
+
+.active {
+  border: 3px solid red;
+}
