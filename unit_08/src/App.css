@@ -1,0 +1,18 @@
+#root {
+    max-width: 1200px;
+    padding: 40px;
+    margin: 0 auto;
+    background: #f1f1f1;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-orange {
+    color: orange;
+}
+
+.text-grey {
+    color: #c0c0c0;
+}
